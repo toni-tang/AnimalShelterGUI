@@ -1,0 +1,10 @@
+package shelter;
+
+public enum BoarBreed
+{
+	AMERICAN_YORKSHIRE,
+	VIETNAMESE_POT_BELLIED,
+	RED_WATTLE_HOG,
+	MULEFOOT,
+	MIDDLE_WHITE
+}
